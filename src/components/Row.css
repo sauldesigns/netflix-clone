@@ -1,9 +1,6 @@
 .row {
 	margin-left: 20px;
-}
-
-.row > h2 {
-	color: black;
+	color: white;
 }
 
 .row__posters {
