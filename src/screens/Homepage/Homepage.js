@@ -4,11 +4,12 @@ import Row from '../../components/Row';
 import Banner from '../../components/Banner';
 import Nav from '../../components/Nav';
 import requests from '../../requests';
+import { useStateValue } from '../../provider/StateProvider';
 
 function Homepage() {
 	return (
 		<div className='app'>
-			<Nav />
+			<Nav name='Saul' />
 			<Banner />
 			<Row
 				isLargeRow

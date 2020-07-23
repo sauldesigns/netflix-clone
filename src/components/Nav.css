@@ -25,9 +25,19 @@
 	object-fit: contain;
 }
 
-.nav__avatar {
+.nav__avatar__container {
+	display: flex;
+	align-items: center;
 	position: fixed;
+	right: 20px;
+}
+
+.nav__avatar {
 	width: 30px;
 	object-fit: contain;
-	right: 20px;
+}
+
+.nav__name {
+	margin-right: 20px;
+	color: white;
 }
