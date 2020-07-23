@@ -9,7 +9,7 @@ import { useStateValue } from '../../provider/StateProvider';
 function Homepage() {
 	return (
 		<div className='app'>
-			<Nav name='Saul' />
+			<Nav name='User' />
 			<Banner />
 			<Row
 				isLargeRow
