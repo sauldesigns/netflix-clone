@@ -42,7 +42,7 @@ function Row({ title, fetchUrl, isLargeRow }) {
 				.catch((error) => console.log(error));
 		}
 	};
-	console.log(movies);
+
 	return (
 		<div className='row'>
 			<h2>{title}</h2>
