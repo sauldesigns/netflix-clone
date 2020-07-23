@@ -1,4 +1,4 @@
-import React from './node_modules/react';
+import React from 'react';
 import './Homepage.css';
 import Row from '../../components/Row';
 import Banner from '../../components/Banner';
