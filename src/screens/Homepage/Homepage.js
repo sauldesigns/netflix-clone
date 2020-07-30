@@ -4,7 +4,6 @@ import Row from '../../components/Row';
 import Banner from '../../components/Banner';
 import Nav from '../../components/Nav';
 import requests from '../../requests';
-import { useStateValue } from '../../provider/StateProvider';
 import * as TITLES from '../../constants/titles';
 function Homepage() {
 	return (
