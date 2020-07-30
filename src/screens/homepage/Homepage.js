@@ -5,6 +5,7 @@ import Banner from '../../components/Banner';
 import Nav from '../../components/Nav';
 import requests from '../../requests';
 import * as TITLES from '../../constants/titles';
+
 function Homepage() {
 	return (
 		<div className='app'>
