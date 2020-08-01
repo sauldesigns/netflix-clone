@@ -17,7 +17,7 @@ When a user clicks on a listing the application will attempt to load a movie tra
 
 ## Packages Used
 
-- movie-railer
+- movie-trailer
 - react-youtube
 - react-router-dom
 - axios
